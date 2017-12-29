@@ -1,0 +1,41 @@
+# WoW-AddonInstaller
+Replacement for the Curse Twitch Client
+
+
+<h3><div align="center">Help for World of Warcraft Addon Installer</div></h3>
+
+<p>First of all : I don't play World of Warcraft. My son does. He didn't like the new Twitch Curse Addon Installer, and asked me to write one for him.
+Then he told me that many players also don't like the new Curse installer and asked me to make this application public because it works fine for him and 
+his friends asked him to send the application.</p>
+
+<p>If you have specific World of Warcraft questions, I can't help you, I provide only help for the application.</p>
+
+<p>You can use the application under Windows, Linux, Mac OS, BSD. Suggestions to improve the application are welcome.</p>
+
+<h3>First run of the application</h3>
+
+<p>If you run the program for the first time, he will ask you where you installed World of Warcraft. Just select the folder. You have also a button to set your WoW folder
+if you need to do that.</p>
+
+<p>After choosing your WoW folder you need to update the database. When the update is finished, you can start using the program. This take some time, but it create all the files
+it needed to run properly. I have my own mechanic to track the addons you install. It's important that you reinstall the addons that you currently use (backup first might be an good idea). That way I can track also
+those addons.</p>
+
+<h3>Using the program</h3>
+
+<p>If you click on My Addons, nothing will show up if you don't reinstall your addons or you don't install any other addon.</p>
+
+<p>If you click on Install Addons, you will have acces to all the curse addons. You can search for addons, and when you start typing, he will show the addons that match
+the text you entered. If you found your addon, select the addon and click on the Install button. If the addon is installed, you will get a popup that tells you it was installed,
+and it will be removed from the install addons list.
+</p>
+
+<p>If you click on My Addons, you will see your installed addons, that you can update if needed or delete. When you delete an addon, it will disappear in your installed addons, and it
+will re-appear in the install addons list. If you delete addons, all the folders and files in your World of Warcraft addon folder that belongs to the addon will be removed.</p>
+
+<p>That's all, I don't think you guys will have problems to use the application, but if you find bugs, report them. For people that have Qt-Creator installed, you can download the
+source code and run or modify it from inside Qt-Creator (QT >=5.9 because there are new functions that doesn't exists in older versions!). If you do that read the GPL-3 license !</p>
+
+<p>When you do the update, it will show you the place where the database is kept. Inside that folder there are other files relative to the application. If you don't know what to do, don't touch them !</p>
+
+<p>Greetings, Serge Terryn aka Essetee, Email: <a href="mailto:serge@essetee.be">serge@essetee.be</a></p>
