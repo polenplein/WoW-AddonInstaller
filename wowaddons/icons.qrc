@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Apps-Dialog-Shutdown-icon.png</file>
+        <file>icons/database.png</file>
+        <file>icons/favorite_add.png</file>
+        <file>icons/favorite.png</file>
+        <file>icons/help.png</file>
+        <file>icons/images.duckduckgo.com.png</file>
+        <file>icons/Qt_logostrap_CMYK.png</file>
+        <file>icons/qtconfig_qt4_qt_22393.png</file>
+        <file>icons/RecoveryDiskInstallIconX.png</file>
+        <file>icons/search.png</file>
+        <file>icons/wow_high_rez_icon_by_jocpoc-d39jgl5-120x120.png</file>
+        <file>icons/Update-icon.png</file>
+        <file>icons/computer_key_Delete_T.png</file>
+        <file>help.html</file>
+    </qresource>
+</RCC>
