@@ -39,3 +39,10 @@ source code and run or modify it from inside Qt-Creator (QT >=5.9 because there 
 <p>When you do the update, it will show you the place where the database is kept. Inside that folder there are other files relative to the application. If you don't know what to do, don't touch them !</p>
 
 <p>Greetings, Serge Terryn aka Essetee, Email: <a href="mailto:serge@essetee.be">serge@essetee.be</a></p>
+ 
+https://imgur.com/ix1fcmZ
+
+https://imgur.com/kJuz9aZ
+
+https://imgur.com/ER6oDD4
+
